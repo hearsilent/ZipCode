@@ -6,7 +6,7 @@ ZipCode
 3. [Json.Net][2]   
                             
 本模組需使用Zip.txt (請放置在與程式同目錄下) :     
-1. [Zip.txt][3] (以官方2014/7 XML製作)    
+1. [Zip.txt][3] (以官方103/7 XML製作)    
                     
 備註 :     
 使用本模組建議以Thread方式 , 避免UI Crash.           
