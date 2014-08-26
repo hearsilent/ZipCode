@@ -148,7 +148,7 @@ Public Class SilentAddressClass
             Dim Zip32 As String = ""
             While (Not Line = Nothing)
                 If Line.Split(",")(1).Contains(mCity) And Line.Split(",")(2).Contains(mTown) And Line.Split(",")(3).Contains(mRoad & StrConv(mSec, VbStrConv.Wide)) Then
-                    Debug.Print(Line)
+                    'Debug.Print(Line)
                     'Debug.Print(Val(Regex.Match(Line.Split(",")(Line.Split(",").Length - 1), "[0-9]+").ToString))
                     'Debug.Print(Val(Regex.Match(mNo.Split("之")(0), "[0-9]+").ToString))
                     If (mRoad = "" And mTown = "") Or Not mFullAddress.Contains("號") Then
