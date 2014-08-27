@@ -1,14 +1,14 @@
 ZipCode
-=======
-如需使用本模組完整功能需下載 :    
-1. [ZipCode 3+2 XML][1] (官方網頁)  
-2. [ZipCode 3+2 XML][4] (DropBox備份)      
-3. [Json.Net][2]   
+----
+### 如需使用本模組完整功能需下載     
+- [ZipCode 3+2 XML][1] (官方網頁)  
+- [ZipCode 3+2 XML][4] (DropBox備份)      
+- [Json.Net][2]   
                             
-本模組需使用Zip.txt (請放置在與程式同目錄下) :     
-1. [Zip.txt][3] (以官方103/7 XML製作)    
+### 本模組需使用Zip.txt (請放置在與程式同目錄下)      
+- [Zip.txt][3] (以官方103/7 XML製作)    
                     
-備註 :     
+### 備註     
 使用本模組建議以Thread方式 , 避免UI Crash.           
 ```   
 Imports System.Threading
