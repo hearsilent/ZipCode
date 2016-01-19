@@ -54,5 +54,5 @@ End Sub
 
 [1]: http://www.post.gov.tw/post/internet/Download/all_list.jsp?ID=2201#dl_txt_s_A0206
 [2]: https://json.codeplex.com/releases
-[3]: https://www.dropbox.com/s/30lfni4jpdkoy28/Zip.txt?dl=0
+[3]: https://github.com/hearsilent/ZipCode/blob/master/Zip.txt?raw=true
 [4]: https://www.dropbox.com/s/qrk2yfo6zc941tl/Zip32_10307.xml?dl=0
